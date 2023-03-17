@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Örnek\Örnek\obj\Debug\Örnek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Örnek\Örnek\obj\Debug\Örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Örnek\Örnek\obj\Debug\Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Örnek\Örnek\bin\Debug\Örnek.exe.config
+C:\Users\Administrator\Desktop\Örnek\Örnek\bin\Debug\Örnek.exe
+C:\Users\Administrator\Desktop\Örnek\Örnek\bin\Debug\Örnek.pdb
+C:\Users\Administrator\Desktop\Örnek\Örnek\obj\Debug\Örnek.exe
+C:\Users\Administrator\Desktop\Örnek\Örnek\obj\Debug\Örnek.pdb
